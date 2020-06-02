@@ -9,11 +9,19 @@ title: Summer 2020 DREU Project Site
 ## About Me
 
 My info goes here.
+
+[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rhoncus hendrerit velit eu ullamcorper. Nunc volutpat, nisi ut mattis consequat, risus magna fringilla ex, nec molestie sapien elit eu sapien. Aenean feugiat enim arcu, in sodales urna venenatis eget. In eget sem enim. Nulla malesuada augue in rutrum commodo. Sed sagittis dui non gravida eleifend. Integer scelerisque at ligula a lacinia.
 
 ## About My Mentor
 
 Mentor info goes here.
+
+[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
+
 Sed commodo sed quam ac mollis. Phasellus ornare massa at est lacinia, sed pellentesque nulla mattis. Donec pulvinar lorem eu pulvinar viverra. Phasellus semper, felis malesuada varius mattis, orci nulla lacinia libero, in lobortis odio arcu vitae lectus. Sed eu neque massa. In consectetur arcu nec nisl eleifend faucibus. Ut vulputate vel felis vel finibus. Aenean tortor ipsum, blandit vitae magna sed, fringilla aliquet nibh. Fusce gravida erat neque, quis mattis est iaculis a. In euismod id augue ut laoreet. Mauris venenatis diam orci, a malesuada nunc fringilla et. Etiam nec neque fringilla, eleifend nisl in, lobortis orci. Nullam ultricies sodales turpis, scelerisque viverra sem vulputate eget. Curabitur nec finibus nulla. Aliquam erat volutpat.
 
 ## About My Project
