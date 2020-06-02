@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
+title: Weekly Blog
+permalink: /blog.html
 ---
 
 <div class="posts">
+  Here you can find the weekly updates for the project.
   {% for post in site.posts %}
     <article class="post">
 
