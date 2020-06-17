@@ -10,7 +10,7 @@ title: Summer 2020 DREU Project Site
 
 Undergraduate at Texas A&M University @ College Station.
 Computer Science / Applied Math Double Major.
-For more about me, you can [visit my website](http://people.tamu.edu/~jcarri877/index.html).
+For more about me, you can [visit my website](https://ghde.dev/).
 
 [<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
 [<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
