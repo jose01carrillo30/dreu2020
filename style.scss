@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
+  clear: both;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -235,6 +236,11 @@ nav {
       color: $link;
     }
   }
+}
+
+.leftimg {
+  float: left;
+  margin-right: 10px;
 }
 
 //

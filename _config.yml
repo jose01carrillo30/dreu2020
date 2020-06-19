@@ -17,11 +17,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: jose01carrillo30@gmail.com
-  facebook:
-  flickr:
-  rss: # just type anything here for a working RSS icon
+  linkedin: jose-carrillo-a42693171
+  github: jose01carrillo30
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed

@@ -8,21 +8,20 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
+[<img src="{{ site.baseurl }}/images/jose1.jpeg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;" class="leftimg"/>]({{ site.baseurl }}/)
+
 Undergraduate at Texas A&M University @ College Station.
 Computer Science / Applied Math Double Major.
 For more about me, you can [visit my website](https://ghde.dev/).
 
-[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
-[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
-
 ## About My Mentor
 
-Mentor info goes here.
+[<img src="{{ site.baseurl }}/images/amato131.jpg" alt="Nancy M. Amato" style="width: 20%;" class="leftimg"/>]({{ site.baseurl }}/)
+Nancy M. Amato is Regents Professor and Unocal Professor of Computer Science and Engineering at Texas A&M where she co-directs the Parasol Lab and is Senior Director of Engineering Honors Programs. In January 2019, she will join the Department of Computer Science at the University of Illinois at Urbana-Champaign as Department Head and as Abel Bliss Professor of Engineering.
 
-[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
-[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 20%;"/>]({{ site.baseurl }}/)
+Amato received undergraduate degrees in Mathematical Sciences and Economics from Stanford, and M.S. and Ph.D. degrees in Computer Science from UC Berkeley and the University of Illinois, respectively. Her research focuses on motion planning and robotics, computational biology and geometry, and parallel computing. She has graduated 23 PhD students, with most going to faculty positions in academia (10) or research positions in government, industry or academic research labs (10). She is VP for Member Activities for the IEEE Robotics and Automation Society (RAS), served as program chair for the 2015 IEEE International Conference on Robotics and Automation (ICRA) and for Robotics: Science and Systems (RSS) in 2016. She is an elected member of the CRA Board of Directors (2014-2020), was an elected member of the RAS AdCom (2009-2014), was co-Chair of CRA-Women (2014-2017) and of the NCWIT Academic Alliance (2009-2011).
 
-Sed commodo sed quam ac mollis. Phasellus ornare massa at est lacinia, sed pellentesque nulla mattis. Donec pulvinar lorem eu pulvinar viverra. Phasellus semper, felis malesuada varius mattis, orci nulla lacinia libero, in lobortis odio arcu vitae lectus. Sed eu neque massa. In consectetur arcu nec nisl eleifend faucibus. Ut vulputate vel felis vel finibus. Aenean tortor ipsum, blandit vitae magna sed, fringilla aliquet nibh. Fusce gravida erat neque, quis mattis est iaculis a. In euismod id augue ut laoreet. Mauris venenatis diam orci, a malesuada nunc fringilla et. Etiam nec neque fringilla, eleifend nisl in, lobortis orci. Nullam ultricies sodales turpis, scelerisque viverra sem vulputate eget. Curabitur nec finibus nulla. Aliquam erat volutpat.
+Amato received the 2017 RAS Distinguished Service Award, the 2014 CRA Habermann Award, the inaugural NCWIT Harrold/Notkin Research and Graduate Mentoring Award in 2014, the 2013 IEEE Hewlett-Packard/Harriet B. Rigas Award, and Texas A&M university-level awards in teaching (2011) and research (2018). She is a AAAI, AAAS, ACM, and IEEE Fellow.
 
 ## About My Project
 
