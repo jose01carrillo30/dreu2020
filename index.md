@@ -32,7 +32,11 @@ Motion planning (MP) problems are defined as finding a motion a robot can take f
 
 [<img src="{{ site.baseurl }}/images/RO-MAMP-CBS.PNG" alt="Start and end configurations of robotic arms in a tightly coupled space." style="width: 45%;" class="rightimg"/>]({{ site.baseurl }}/)
 
-Multi-agent motion planning (MAMP) is a generalization of MP where there are multiple robots which also must not collide with eachother. The discrete environment version of this problem is multi-agent path finding (MAPF), where each robot occupies a node on a graph and cannot share nodes or cross the same edge with another robot at the same time. Conflict-based search (CBS) and variants of it have been applied to both these problems with much success.
+Multi-agent motion planning (MAMP) is a generalization of MP where there are multiple robots which also must not collide with eachother. The discrete environment version of this problem is multi-agent path finding (MAPF), where each robot occupies a node on a graph and cannot share nodes or cross the same edge with another robot at the same time. 
+
+[<img src="{{ site.baseurl }}/images/CBS.gif" alt="Animation of conflict tree being built in CBS." style="width: 60%;" class="leftimg"/>]({{ site.baseurl }}/)
+
+Conflict-based search (CBS) and variants of it have been applied to both these problems with much success. The animation on the left shows the classic CBS problem in a discrete grid with only two robots. The data structure in this animation is the Conflict Tree. For each leaf of the tree, we evaluate it to determine the first conflict between a pair of robots. Two children of this node are created, each one containing an additional constraint that one of those two robots cannot be in that contested tile at that time. Evaluation takes these constraints as dynamic obstacles; these constraints are the only information that robots have about eachother while planning.
 
 ### Project Description
 
