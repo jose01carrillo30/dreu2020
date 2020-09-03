@@ -54,7 +54,7 @@ Our method provides advantages over existing techniques. In CBS and all of its c
 
 ### Final Report
 
-Once I have completed it, you will find my final report for this project [HERE.](files/finalreport.pdf)
+[View my final report by clicking here.](files/finalreport.pdf)
 
 ## My Blog
 
